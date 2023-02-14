@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, I'm Filip Papaz 👋
 
 
 
@@ -19,4 +19,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+If you're looking for a [Type of Data Analyst You Want to Be, such as Junior Data Analyst or Data Scientist], please don't hesitate to get in touch! I'm eager to connect with others in the field and explore opportunities to build my career in data analysis.
 -->
