@@ -7,7 +7,8 @@ An aspiring Data Analyst, with background in accounting.  I've been teaching mys
 - 📫 Email me at: filippapaz92@gmail.com
 - 🙌🏻 My LinkedIn profile: [Filip Papaz](https://www.linkedin.com/in/filip-papaz-664a3a216/)
 
-**Languages and Tools:**
+**Languages and Tools:**  
+
 <img src="https://user-images.githubusercontent.com/119366006/218660157-c898a681-db13-401b-b920-b2888193b4dc.png" width="90"/>  |  <img src="https://user-images.githubusercontent.com/119366006/218687838-602adef4-c345-4222-a7c0-77008c746175.png" width="90"/>  |  <img src="https://user-images.githubusercontent.com/119366006/218689717-c7804505-1aa8-4ef8-a3b8-a14fbe4e1539.png" width="90"/>  |  <img src="https://user-images.githubusercontent.com/119366006/218691656-eb85f597-bdc5-4361-a23d-40183ca52e21.jpeg" width="90"/>
 
 
