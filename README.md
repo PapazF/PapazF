@@ -5,6 +5,7 @@ I've been teaching myself the necessary skills through online and on-campus cour
 - 🌱 My Portfolio Projects are in: [Data Analyst Portofolio Projects](https://github.com/PapazF/DataAnalyst_PortfolioProjects)
 - 📝 Take a look at my personal e-Portofolio:
 - 👨‍💻 My Tableau Projects are at: [Tableau Projects](https://public.tableau.com/app/profile/filip.papaz)
+- 📫 Email me at: filippapaz92@gmail.com
 
 
 
