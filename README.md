@@ -1,7 +1,7 @@
 # Hello, I'm Filip Papaz 👋
 
 An aspiring Data Analyst, with background in accounting.
-I've been teaching myself the necessary skills through online and on-campus courses. 
+I've been teaching myself the necessary skills through online and on-campus courses. As an aspiring data analyst, I'm eager to gain practical experience in the field and contribute to new projects.
 - 🌱 My Portfolio Projects are in: [Data Analyst Portofolio Projects](https://github.com/PapazF/DataAnalyst_PortfolioProjects)
 - 📝 Take a look at my personal e-Portofolio:
 - 👨‍💻 My Tableau Projects are at: [Tableau Projects](https://public.tableau.com/app/profile/filip.papaz)
