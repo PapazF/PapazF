@@ -1,6 +1,6 @@
 # Hello, I'm Filip Papaz 👋
 
-fsdfsdfs
+Aspiring Data Analyst, with background in accounting.
 
 
 
