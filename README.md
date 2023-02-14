@@ -1,9 +1,9 @@
 ### Hi there 👋
-![MySQL](https://user-images.githubusercontent.com/119366006/218660157-c898a681-db13-401b-b920-b2888193b4dc.png)
 
 
 
-<img src="https://user-images.githubusercontent.com/119366006/218660157-c898a681-db13-401b-b920-b2888193b4dc.png" width="10" height="10" />
+
+<img src="https://user-images.githubusercontent.com/119366006/218660157-c898a681-db13-401b-b920-b2888193b4dc.png" width="20" height="20" />
 
 
 <!--
