@@ -1,7 +1,6 @@
 ### Hi there 👋
 ![MySQL](https://user-images.githubusercontent.com/119366006/218660157-c898a681-db13-401b-b920-b2888193b4dc.png)
 
-<img src="[https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://user-images.githubusercontent.com/119366006/218660157-c898a681-db13-401b-b920-b2888193b4dc.png)" width="200" height="400" />
 
 <!--
 **PapazF/PapazF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
