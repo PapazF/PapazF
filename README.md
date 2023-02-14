@@ -6,6 +6,9 @@ I've been teaching myself the necessary skills through online and on-campus cour
 - 📝 Take a look at my personal e-Portofolio:
 - 👨‍💻 My Tableau Projects are at: [Tableau Projects](https://public.tableau.com/app/profile/filip.papaz)
 - 📫 Email me at: filippapaz92@gmail.com
+- 🙌🏻 My LinkedIn profile: [Filip Papaz](https://www.linkedin.com/in/filip-papaz-664a3a216/)
+
+Languages and Tools:
 
 
 
