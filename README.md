@@ -1,4 +1,5 @@
 ### Hi there 👋
+![MySQL](https://user-images.githubusercontent.com/119366006/218660157-c898a681-db13-401b-b920-b2888193b4dc.png)
 
 <!--
 **PapazF/PapazF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
