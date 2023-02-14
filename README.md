@@ -1,7 +1,7 @@
 # Hello, I'm Filip Papaz 👋
 
 An aspiring Data Analyst, with background in accounting.
-I've been teaching myself the necessary skills through online and on-campus courses. I'm proficient in Excel | <img src="https://user-images.githubusercontent.com/119366006/218660157-c898a681-db13-401b-b920-b2888193b4dc.png" width="20" height="20" />
+I've been teaching myself the necessary skills through online and on-campus courses. I'm proficient in Excel | <img src="https://user-images.githubusercontent.com/119366006/218660157-c898a681-db13-401b-b920-b2888193b4dc.png" width="20"/>
  | Tableau, and I'm always eager to learn new technologies and techniques.
 
 
