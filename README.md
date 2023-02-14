@@ -9,6 +9,9 @@ I've been teaching myself the necessary skills through online and on-campus cour
 
 <img src="![PostgreSQL](https://user-images.githubusercontent.com/119366006/218687421-66fd142a-912f-4a7d-811a-0703914a00e2.png)" width="70"/>
 
+![PostgreSQL](https://user-images.githubusercontent.com/119366006/218687838-602adef4-c345-4222-a7c0-77008c746175.png)
+
+
 
 <!--
 **PapazF/PapazF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
