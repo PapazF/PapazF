@@ -1,7 +1,7 @@
 # Hello, I'm Filip Papaz 👋
 
 An aspiring Data Analyst, with background in accounting.
-I've been teaching myself the necessary skills through online and on-campus courses. I'm proficient in [List Tools or Languages You're Familiar With], and I'm always eager to learn new technologies and techniques.
+I've been teaching myself the necessary skills through online and on-campus courses. I'm proficient in Excel | SQL(MySQL,PostgreSQL) | Tableau, and I'm always eager to learn new technologies and techniques.
 
 
 
