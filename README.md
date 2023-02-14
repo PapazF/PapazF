@@ -8,6 +8,7 @@ I've been teaching myself the necessary skills through online and on-campus cour
 
 
 <img src="https://user-images.githubusercontent.com/119366006/218687838-602adef4-c345-4222-a7c0-77008c746175.png" width="70"/>
+
 ![Tableau](https://user-images.githubusercontent.com/119366006/218689717-c7804505-1aa8-4ef8-a3b8-a14fbe4e1539.png)
 
 
