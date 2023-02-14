@@ -1,7 +1,10 @@
 # Hello, I'm Filip Papaz 👋
 
 An aspiring Data Analyst, with background in accounting.
-I've been teaching myself the necessary skills through online and on-campus courses. I'm proficient in   <img src="https://user-images.githubusercontent.com/119366006/218660157-c898a681-db13-401b-b920-b2888193b4dc.png" width="90"/>  |  <img src="https://user-images.githubusercontent.com/119366006/218687838-602adef4-c345-4222-a7c0-77008c746175.png" width="90"/>  |  <img src="https://user-images.githubusercontent.com/119366006/218689717-c7804505-1aa8-4ef8-a3b8-a14fbe4e1539.png" width="90"/>, and I'm always eager to learn new technologies and techniques.
+I've been teaching myself the necessary skills through online and on-campus courses. 
+I'm proficient in
+- <img src="https://user-images.githubusercontent.com/119366006/218660157-c898a681-db13-401b-b920-b2888193b4dc.png" width="90"/>
+- <img src="https://user-images.githubusercontent.com/119366006/218687838-602adef4-c345-4222-a7c0-77008c746175.png" width="90"/>  |  <img src="https://user-images.githubusercontent.com/119366006/218689717-c7804505-1aa8-4ef8-a3b8-a14fbe4e1539.png" width="90"/>, and I'm always eager to learn new technologies and techniques.
 
 
 
