@@ -3,6 +3,7 @@
 An aspiring Data Analyst, with background in accounting.
 I've been teaching myself the necessary skills through online and on-campus courses. 
 - 🌱 My Portfolio Projects are in: [Data Analyst Portofolio Projects](https://github.com/PapazF/DataAnalyst_PortfolioProjects)
+- 📝 Take a look at my personal e-Portofolio:
 
 
 
