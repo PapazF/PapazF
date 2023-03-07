@@ -3,7 +3,6 @@
 An aspiring Data Analyst, with background in accounting. </br> I've been teaching myself the necessary skills through online and on-campus courses. </br>  
 If you're looking for a Junior Data Analyst, please don't hesitate to get in touch! </br>  I'm eager to connect with others in the field and explore opportunities to build my career in data analysis. </br>
 - 🌱 My Portfolio Projects are in: [Data Analyst Portofolio Projects](https://github.com/PapazF/DataAnalyst_PortfolioProjects)
-- 📝 Take a look at my personal e-Portofolio:
 - 👨‍💻 My Tableau Projects are at: [Tableau Projects](https://public.tableau.com/app/profile/filip.papaz)
 - 📫 Email me at: filippapaz92@gmail.com
 - 🙌🏻 My LinkedIn profile: [Filip Papaz](https://www.linkedin.com/in/filip-papaz-664a3a216/)
@@ -36,6 +35,8 @@ If you're looking for a Junior Data Analyst, please don't hesitate to get in tou
 **PapazF/PapazF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ![cat](https://user-images.githubusercontent.com/119366006/218704237-0b5a7e11-d63a-45d1-b8e9-ea87c7f896f1.png)
+
+- 📝 Take a look at my personal e-Portofolio:
 
 
 Here are some ideas to get you started:
