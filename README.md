@@ -1,7 +1,8 @@
 # Hello, I'm Filip Papaz 👋
 
-An aspiring Data Analyst, with background in accounting. </br> I've been teaching myself the necessary skills through online and on-campus courses. </br>  
-If you're looking for a Junior Data Analyst, please don't hesitate to get in touch! </br>  I'm eager to connect with others in the field and explore opportunities to build my career in data analysis. </br>
+Data Analyst with more than 5 years of diverse experience in the Accounting, Hospitality, and Management field. </br> I've been teaching myself the necessary skills through online and on-campus courses. </br>  
+Proficient in SQL, Tableau, and Excel, with 
+strong analytical skills and the ability to manipulate and visualize data to derive insights. </br>  I'm eager to connect with others in the field and explore opportunities to learn more about Data Analysis. </br>
 - 🌱 My Portfolio Projects are in: [Data Analyst Portofolio Projects](https://github.com/PapazF/DataAnalyst_PortfolioProjects)
 - 👨‍💻 My Tableau Projects are at: [Tableau Projects](https://public.tableau.com/app/profile/filip.papaz)
 - 📫 Email me at: filippapaz92@gmail.com
